@@ -37,6 +37,8 @@ namespace grade_scores
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine();
                 Console.WriteLine("Fail to read file " + inputValue);
                 Program.ShowHelp();
                 return false;
@@ -63,6 +65,8 @@ namespace grade_scores
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine();
                 Console.WriteLine("Fail to read file " + file);
                 Program.ShowHelp();
                 return false;

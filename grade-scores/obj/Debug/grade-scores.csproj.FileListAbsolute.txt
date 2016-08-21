@@ -3,3 +3,4 @@ D:\devl\yuanr\Ci2\Tools\src\test\grade-scores\grade-scores\bin\Debug\grade-score
 D:\devl\yuanr\Ci2\Tools\src\test\grade-scores\grade-scores\bin\Debug\grade-scores.pdb
 D:\devl\yuanr\Ci2\Tools\src\test\grade-scores\grade-scores\obj\Debug\grade-scores.exe
 D:\devl\yuanr\Ci2\Tools\src\test\grade-scores\grade-scores\obj\Debug\grade-scores.pdb
+D:\devl\yuanr\Ci2\Tools\src\test\grade-scores\grade-scores\obj\Debug\grade-scores.csprojResolveAssemblyReference.cache
