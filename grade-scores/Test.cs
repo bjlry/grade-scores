@@ -40,7 +40,7 @@ namespace grade_scores
                 Program.Main(args);
                 Assert.Fail("Process should have failed");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 // Failed correctly
             }
@@ -57,7 +57,7 @@ namespace grade_scores
                 Assert.AreEqual(FileName, lines.InputFileName);
                 Assert.AreEqual("file", lines.InputPath);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Assert.Fail("Read path fails");
             }
